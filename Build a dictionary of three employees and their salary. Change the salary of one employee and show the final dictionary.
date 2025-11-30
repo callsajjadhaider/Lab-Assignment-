@@ -1,4 +1,0 @@
-print("Employee Salaries")
-salaries = {"Sajjad": 5000, "Haider": 6000, "Muhammad": 5500}
-salaries["Sajjad"] = 5500
-print(salaries)
